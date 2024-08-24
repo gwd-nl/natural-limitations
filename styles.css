@@ -27,6 +27,7 @@ body {
     font-weight: 400;
     color: black;
     text-align: left;
+    padding-top: 1vh;
     padding-left: 1vw;
 }
 .about{
