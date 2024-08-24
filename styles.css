@@ -4,7 +4,7 @@
 /* Selectors */	
 body {
 	font-size: 62.5%;
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     font-weight: 100;
     top: 2vh;
     position: static;
@@ -12,7 +12,7 @@ body {
 }
 .header {
     font-size: 62.5%;
-    font-family: "Inter";
+    font-family: "Inter", sans-serif;
     font-weight: 100;
     width: 100vw;
     height: 2vh;
@@ -30,13 +30,13 @@ body {
     padding-left: 1vw;
 }
 .about{
-    width: 40vw;
+    width: 80vw;
     height: 60vh;
     transform: translate(0, 20vh);
     text-align: Left;
     position: absolute;
     font-size: 1.4em;
-    left: 30vw;
+    left: 10vw;
     overflow-y: scroll;
     scrollbar-width: none;
 }
