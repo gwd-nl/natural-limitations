@@ -15,7 +15,7 @@ body {
     font-family: "Inter", sans-serif;
     font-weight: 100;
     width: 100vw;
-    height: 2vh;
+    height: 4vh;
     top: 0;
     right: 0;
     position: absolute;
@@ -61,12 +61,14 @@ body {
 /* Footer Classes */
 .footer {
     color: black;
+    background-color: white;
 	text-align: right;
     width: 98vw;
 	height: 2vh;
     position: fixed;
     bottom: 0;
-    right: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
 	font-size: 1.4em;
     font-weight: 100;
 }
